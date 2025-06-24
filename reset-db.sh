@@ -1,0 +1,1 @@
+npx nx run twenty-server:database:reset --configuration=no-seed
